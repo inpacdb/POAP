@@ -66,6 +66,6 @@ Samdani.A & Umashankar.V
 **For queries please contact:**
 vumashankar@gmail.com
 
-
+POAP is also available for download at http://www.sankaranethralaya.org/research-bioinformatics-poap.html since 21-jul-2017
 
 
