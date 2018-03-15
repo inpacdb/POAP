@@ -68,4 +68,8 @@ vumashankar@gmail.com
 
 POAP is also available for download at http://www.sankaranethralaya.org/research-bioinformatics-poap.html since 21-jul-2017
 
+Please Cite: POAP: A GNU parallel based multithreaded pipeline of open babel and AutoDock suite for boosted high throughput virtual screening, A. Samdani, Umashankar Vetrivel, Computational Biology and Chemistry 74 (2018) 39–48.
+
+Link to pubmed for the article Asbstract: https://www.ncbi.nlm.nih.gov/pubmed/29533817
+
 
